@@ -12,3 +12,4 @@ C:\Users\sh.haqnazarov\Desktop\lection_c#\Lesson1\Task1\obj\Debug\net8.0\refint\
 C:\Users\sh.haqnazarov\Desktop\lection_c#\Lesson1\Task1\obj\Debug\net8.0\Task1.pdb
 C:\Users\sh.haqnazarov\Desktop\lection_c#\Lesson1\Task1\obj\Debug\net8.0\Task1.genruntimeconfig.cache
 C:\Users\sh.haqnazarov\Desktop\lection_c#\Lesson1\Task1\obj\Debug\net8.0\ref\Task1.dll
+C:\Users\sh.haqnazarov\Desktop\lection_c#\Lesson1\Task1\obj\Debug\net8.0\Task1.sourcelink.json
