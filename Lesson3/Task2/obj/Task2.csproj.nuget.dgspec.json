@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sh.haqnazarov\\Desktop\\lection_c#\\Lesson3\\Task2\\Task2.csproj": {}
+    "C:\\Users\\xaknazarov_sharasul\\Desktop\\csharp_lection\\lection_c-\\Lesson3\\Task2\\Task2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sh.haqnazarov\\Desktop\\lection_c#\\Lesson3\\Task2\\Task2.csproj": {
+    "C:\\Users\\xaknazarov_sharasul\\Desktop\\csharp_lection\\lection_c-\\Lesson3\\Task2\\Task2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sh.haqnazarov\\Desktop\\lection_c#\\Lesson3\\Task2\\Task2.csproj",
+        "projectUniqueName": "C:\\Users\\xaknazarov_sharasul\\Desktop\\csharp_lection\\lection_c-\\Lesson3\\Task2\\Task2.csproj",
         "projectName": "Task2",
-        "projectPath": "C:\\Users\\sh.haqnazarov\\Desktop\\lection_c#\\Lesson3\\Task2\\Task2.csproj",
-        "packagesPath": "C:\\Users\\sh.haqnazarov\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sh.haqnazarov\\Desktop\\lection_c#\\Lesson3\\Task2\\obj\\",
+        "projectPath": "C:\\Users\\xaknazarov_sharasul\\Desktop\\csharp_lection\\lection_c-\\Lesson3\\Task2\\Task2.csproj",
+        "packagesPath": "C:\\Users\\xaknazarov_sharasul\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\xaknazarov_sharasul\\Desktop\\csharp_lection\\lection_c-\\Lesson3\\Task2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\sh.haqnazarov\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\xaknazarov_sharasul\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
