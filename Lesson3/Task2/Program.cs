@@ -1,4 +1,5 @@
-﻿void PrintSquares(int limit)
+﻿
+void PrintSquares(int limit)
 {
     int i = 1;
     while (i <= limit)
@@ -9,5 +10,7 @@
 }
 
 PrintSquares(5);
+Console.WriteLine();
 PrintSquares(10);
+Console.WriteLine();
 PrintSquares(15);
