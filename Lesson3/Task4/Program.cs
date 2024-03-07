@@ -11,20 +11,27 @@ int i = 0;
 //     }
 // }
 
+void FillArray(int[] arr)
+{
+    for (int i = 0; i < arr.Length; i++)
+    {
+        arr[i] = i + 1;
+    }
+}
+
 void PrintArray(int[] arr)
 {
-    i = 0;
-    while (i < n)
+ for (int i = 0; i < arr.Length; i++)
     {
-        Console.Write($"{arr[i]} ");
+        Console.Write($"{arr[i] * 2} ");
     }
-    i++;
+ 
 }
 
 
-int[] array = { 1, 2 };
+int[] array = { 1, 2, 3, 4, 5 };
 
-// FillArray(arr);
+FillArray(array);
 PrintArray(array);
 
 
