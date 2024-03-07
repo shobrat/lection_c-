@@ -1,17 +1,31 @@
 ﻿
-string GetLettersFromString(string s)
+// string GetLettersFromString(string s)
+// {
+//     string letters = "";
+//     foreach (char e in s)
+//     {
+//         if (char.IsAsciiLetter(e) == true)
+//         {
+//             letters = letters + e;
+//         }
+//     }
+//     return letters;
+// }
+
+string GetDigitsFromString(string s)
 {
-    string letters = "";
+    string numbers = "";
     foreach (char e in s)
     {
-        if (char.IsAsciiLetter(e) == true)
+        if (char.IsAsciiDigit(e) == true)
         {
-            letters = letters + e;
+            numbers = numbers + e;
         }
     }
-    return letters;
+    return numbers;
 }
+
 string str = Console.ReadLine();
 
-string result = GetLettersFromString(str);
+string result = GetDigitsFromString(str);
 Console.WriteLine(result);
