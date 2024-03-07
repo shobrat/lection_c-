@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\sh.haqnazarov\\.nuget\\packages\\": {}
+    "C:\\Users\\xaknazarov_sharasul\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sh.haqnazarov\\Desktop\\lection_c#\\Lesson3\\Task1\\Task1.csproj",
+      "projectUniqueName": "C:\\Users\\xaknazarov_sharasul\\Desktop\\csharp_lection\\lection_c-\\Lesson3\\Task1\\Task1.csproj",
       "projectName": "Task1",
-      "projectPath": "C:\\Users\\sh.haqnazarov\\Desktop\\lection_c#\\Lesson3\\Task1\\Task1.csproj",
-      "packagesPath": "C:\\Users\\sh.haqnazarov\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sh.haqnazarov\\Desktop\\lection_c#\\Lesson3\\Task1\\obj\\",
+      "projectPath": "C:\\Users\\xaknazarov_sharasul\\Desktop\\csharp_lection\\lection_c-\\Lesson3\\Task1\\Task1.csproj",
+      "packagesPath": "C:\\Users\\xaknazarov_sharasul\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\xaknazarov_sharasul\\Desktop\\csharp_lection\\lection_c-\\Lesson3\\Task1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\sh.haqnazarov\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\xaknazarov_sharasul\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
